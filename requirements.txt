@@ -11,6 +11,9 @@ open3d
 PyQt5
 reportlab
 nibabel
+torch-geometric
+einops
+scikit-learn
 scikit-image
 matplotlib
 tensorboard
